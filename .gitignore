@@ -57,4 +57,5 @@ crashlytics-build.properties
 
 # 실습 예제 폴더 제외
 Assets/EX_Vuforia_Test/
-Assets/EX_Vuforia_Test.meta
+Assets/EX_Vuforia_Test.metaPackages/com.ptc.vuforia.engine-*.tgz
+Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX
