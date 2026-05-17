@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HW18_AR_Test/HW18_AR_Test.unity
-    guid: e06cf2a29297b42c9a10f4207f902abb
+    path: Assets/EX_Interactions/EX_Interactions_Drag.unity
+    guid: 4239e8ef6d55b014ca6cf6ca04b458f7
   m_configObjects: {}

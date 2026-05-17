@@ -59,3 +59,36 @@ crashlytics-build.properties
 Assets/EX_Vuforia_Test/
 Assets/EX_Vuforia_Test.metaPackages/com.ptc.vuforia.engine-*.tgz
 Assets/SamplesResources/AugmentationAssets/Models/Astronaut.FBX
+
+Assets/EX_Targets
+Assets/EX_Gravity
+
+# Recordings
+Recordings/
+
+# QCAR (Vuforia 데이터, 자동생성)
+QCAR/
+
+# Crash 로그
+mono_crash.*.json
+
+# Vuforia 에디터 자동생성 텍스처
+Assets/Editor/Vuforia/CylinderTargetTextures/
+Assets/Editor/Vuforia/CylinderTargetTextures.meta
+Assets/Editor/Vuforia/ImageTargetTextures/
+Assets/Editor/Vuforia/ImageTargetTextures.meta
+
+# HDRP/URP 자동생성 리소스
+Assets/HDRPDefaultResources/
+Assets/HDRPDefaultResources.meta
+Assets/UniversalRenderPipelineGlobalSettings.asset
+Assets/UniversalRenderPipelineGlobalSettings.asset.meta
+
+# Standard Assets 샘플
+Assets/Standard Assets/
+Assets/Standard Assets.meta
+
+# ProjectSettings 자동생성
+ProjectSettings/ShaderGraphSettings.asset
+
+Assets/TerrainSampleAssets
